@@ -68,5 +68,5 @@ class Bot:
 #
 # For first start uncomment this:
 #
-# b = Bot()
-# b.configure()
+b = Bot()
+b.configure()
